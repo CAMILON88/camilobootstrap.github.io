@@ -1,0 +1,54 @@
+.espacio{
+    padding-top: 20px;
+}
+
+@media (max-width: 768px)
+{
+	.categorias{
+		display: none;
+	}
+	.input-group{
+		margin-bottom: 20px;
+	}
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px)
+{
+	.categorias{
+		display:none;
+	}
+	.input-group{
+		margin-bottom: 20px;
+	}
+
+
+}
+
+p{
+	line-height: 1.5;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: justify;
+}
+
+.panel {
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.form-group{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.thumbnail p {
+
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+
+}
